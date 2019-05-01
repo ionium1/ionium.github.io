@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/ionium
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ionium1.github.io
+  * I am ionium (https://keybase.io/ionium) on keybase.
+  * I have a public key ASDniDcOIpl0S6O8ndMRDJF_tryDCHl-eoEzYh3UWT2EnAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120e788370e2299744ba3bc9dd3110c917fb6bc8308797e7a8133621dd4593d849c0a",
+      "host": "keybase.io",
+      "kid": "0120e788370e2299744ba3bc9dd3110c917fb6bc8308797e7a8133621dd4593d849c0a",
+      "uid": "55f56b7f4f362515e236b8bb2187bc19",
+      "username": "ionium"
+    },
+    "merkle_root": {
+      "ctime": 1556723434,
+      "hash": "29f43fc448dd061db16aa146cbb8dd98b8b6a092a0a9906047bd64080ac5e547c2d396bb3849825f522e7bce3751eb5fc86077eaebf1226808c608da7f9f119d",
+      "hash_meta": "3638bf8eec60dd8a88ff16e3a34ab616a30f91bf3104d49062a0a727b2c55766",
+      "seqno": 5277214
+    },
+    "service": {
+      "entropy": "7+5vCQsQnSnq14Tv3s8AVhlG",
+      "hostname": "ionium1.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.2.2"
+  },
+  "ctime": 1556723477,
+  "expire_in": 504576000,
+  "prev": "d9e68232e11f975ac5b8b36fe0ae0ce33979828a0f044890ceba4294ef067918",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg54g3DiKZdEujvJ3TEQyRf7a8gwh5fnqBM2Id1Fk9hJwKp3BheWxvYWTESpcCCcQg2eaCMuEfl1rFuLNv4K4M4zl5gooPBEiQzrpClO8GeRjEIAP0Icg+tQoCOz6bTja7YiRYmT9HZqauXboG85/FX6nRAgHCo3NpZ8RAvllLs9aNLH4cSAYwre0IwmL0JDUHX5AzJhIWv583CteMdkT32Psw/owoks7jEi99/TC8G3mtUidKgJAJwdiZA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJJD/HAUSFL5XVHw2YFfOCXKLDobNIHcVR6G2Pa2ydOMo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ionium
+
+==================================================================
